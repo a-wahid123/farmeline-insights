@@ -78,7 +78,8 @@ Key visuals include:
 - Seasonal trends in demand and attendance  
 - Conversion rates from training to adoption  
 
-![Framerline Dashboard Screenshot](image.png)
+<img width="1293" height="782" alt="farmerline_dashboard" src="https://github.com/user-attachments/assets/7e1c3660-dfa0-4e6b-b676-4aae10b092aa" />
+
 
 ---
 
