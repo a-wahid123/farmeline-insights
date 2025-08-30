@@ -1,14 +1,14 @@
 
-# 🌱 Farmerline Farmer Engagement Analytics
+#  Farmerline Farmer Engagement Analytics
 
-## 📌 Overview
+##  Overview
 This project simulates and analyzes Farmerline’s operations — a Ghana-based agritech company that empowers smallholder farmers with digital tools. Using three integrated datasets (registration, orders, and training attendance), it captures the farmer journey from registration to training to input adoption.
 
 The goal is to measure farmer engagement, identify adoption gaps, and provide insights to improve training effectiveness, input uptake, and regional inclusivity.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 - Track farmer demographics and registration profiles  
 - Measure training participation and feedback  
 - Analyze input orders by type, value, delivery status, and region  
@@ -17,7 +17,7 @@ The goal is to measure farmer engagement, identify adoption gaps, and provide in
 
 ---
 
-## 🗂 Datasets
+##  Datasets
 **FarmerRegistration**  
 - Fields: `FarmerID`, `FullName`, `Gender`, `Age`, `Region`, `District`, `PhoneNumber`, `RegistrationDate`  
 - Purpose: Farmer demographic and registration details  
@@ -34,7 +34,7 @@ The goal is to measure farmer engagement, identify adoption gaps, and provide in
 
 ---
 
-## ⚙️ Process
+##  Process
 
 ### Data Preparation
 - Generated CSV datasets with ChatGPT  
@@ -56,7 +56,7 @@ The goal is to measure farmer engagement, identify adoption gaps, and provide in
 
 ---
 
-## 🧑‍💻 SQL Queries (Highlights)
+##  SQL Queries (Highlights)
 - **Q1**: Farmers by Region  
 - **Q2**: Gender Distribution  
 - **Q3**: Average Age of Farmers  
@@ -70,7 +70,7 @@ The goal is to measure farmer engagement, identify adoption gaps, and provide in
 
 ---
 
-## 📊 Dashboard (Power BI)
+##  Dashboard (Power BI)
 Key visuals include:  
 - Farmer demographics (age, gender, region)  
 - Orders by type, region, and delivery status  
@@ -82,7 +82,7 @@ Key visuals include:
 
 ---
 
-## 🔑 Insights
+##  Insights
 - **Farmer Profile**: Avg age = 33; Gender split = 50/50  
 - **Training Participation**: Peaks in March–Sept, dip in October  
 - **Conversion**: 130% overall; Bono East strong (100%), Eastern weaker (75%)  
@@ -91,7 +91,7 @@ Key visuals include:
 
 ---
 
-## ✅ Recommendations
+##  Recommendations
 - Design gender- and youth-focused programs  
 - Align training with peak cycles; offer refresher sessions off-season  
 - Replicate Bono East/Central success in underperforming regions  
@@ -100,7 +100,7 @@ Key visuals include:
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 ```
 
 farmerline\_project/
